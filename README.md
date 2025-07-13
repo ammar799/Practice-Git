@@ -1,2 +1,2 @@
 # Practice-Git
-Practicing Git using command line
+Practicing Git using command line.
